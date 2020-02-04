@@ -1,0 +1,28 @@
+{
+  "name": "qyb-umi-assets",
+  "version": "0.0.1",
+  "description": "qyb-umi-assets",
+  "authors": {
+    "name": "qiao.li",
+    "email": "liqiao1000@gmail.com"
+  },
+  "repository": "",
+  "scripts": {
+    "build": "node ./_scripts/build.js",
+    "create": "node ./_scripts/create.js",
+    "dev": "umi dev",
+    "start": "umi block_dev"
+  },
+  "dependencies": {
+    "@ant-design/pro-layout": "^4.10.10",
+    "react": ">=16.0.0",
+    "umi-request": "^1.2.18"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^3.0.1",
+    "umi-plugin-react": "^1.15.0",
+    "umi-types": "^0.5.0"
+  },
+  "license": "MIT"
+}
