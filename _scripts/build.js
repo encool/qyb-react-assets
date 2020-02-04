@@ -2,7 +2,7 @@ const { readdirSync, readFileSync, writeFileSync, existsSync } = require('fs');
 const { join, basename } = require('path');
 const mkdirp = require('mkdirp');
 
-const repo_url = "https://github.com/umijs/umi-blocks"
+const repo_url = "https://gitee.com/ngxngx/qysyb-easyui-assets"
 
 function haveDependencies(pkg, depName) {
   if (pkg.dependencies && pkg.dependencies[depName]) {
