@@ -14,6 +14,19 @@
       "category": "脚手架"
     },
     {
+      "name": "动态表单",
+      "description": "动态表单构建器",
+      "url": "https://gitee.com/ngxngx/qysyb-easyui-assets/tree/master/templates/dformbuilder",
+      "tags": [],
+      "img": "https://gitee.com/ngxngx/qysyb-easyui-assets/blob/master/templates/dformbuilder/snapshot.png?raw=true",
+      "previewUrl": "",
+      "features": [
+        "antd",
+        "dva"
+      ],
+      "category": "动态表单"
+    },
+    {
       "name": "UserDashboard",
       "description": "User dashboard example with umi, antd and dva.",
       "url": "https://gitee.com/ngxngx/qysyb-easyui-assets/tree/master/templates/user-dashboard",
