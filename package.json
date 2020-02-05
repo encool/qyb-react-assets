@@ -19,6 +19,14 @@
     "umi-request": "^1.2.18"
   },
   "devDependencies": {
+    "@material-ui/core": "^4.9.1",
+    "cross-env": "^7.0.0",
+    "easyui-core": "^0.0.4",
+    "qyb-react-easyui": "^0.0.13",
+    "react-dnd": "^10.0.2",
+    "react-dnd-html5-backend": "^10.0.2",
+    "react-highlight-words": "^0.16.0",
+    "reqwest": "^2.0.5",
     "umi": "^2.9.0",
     "umi-plugin-block-dev": "^3.0.1",
     "umi-plugin-react": "^1.15.0",

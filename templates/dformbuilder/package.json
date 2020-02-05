@@ -1,0 +1,14 @@
+{
+  "name": "动态表单",
+  "description": "动态表单构建器",
+  "dependencies": {
+    "antd": "^3.23.4",
+    "umi-request": "^1.0.0",
+    "qyb-react-easyui": "^0.0.13",
+    "react-dnd-html5-backend": "^8.0.3",
+    "react-dnd": "^8.0.3"
+  },
+  "block": {
+    "category": "动态表单"
+  }
+}
