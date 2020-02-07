@@ -3,9 +3,9 @@
     {
       "name": "Blank",
       "description": "Blank block for quick start a umi page develop, with mock, dva, service and antd.",
-      "url": "https://gitee.com/ngxngx/qysyb-easyui-assets/tree/master/templates/blank",
+      "url": "https://github.com/encool/qyb-umi-assets/tree/master/templates/blank",
       "tags": [],
-      "img": "https://gitee.com/ngxngx/qysyb-easyui-assets/blob/master/templates/blank/snapshot.png?raw=true",
+      "img": "https://github.com/encool/qyb-umi-assets/blob/master/templates/blank/snapshot.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd",
@@ -16,9 +16,9 @@
     {
       "name": "动态表单",
       "description": "动态表单构建器",
-      "url": "https://gitee.com/ngxngx/qysyb-easyui-assets/tree/master/templates/dformbuilder",
+      "url": "https://github.com/encool/qyb-umi-assets/tree/master/templates/dformbuilder",
       "tags": [],
-      "img": "https://gitee.com/ngxngx/qysyb-easyui-assets/blob/master/templates/dformbuilder/snapshot.png?raw=true",
+      "img": "https://github.com/encool/qyb-umi-assets/blob/master/templates/dformbuilder/snapshot.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd",
@@ -29,9 +29,9 @@
     {
       "name": "UserDashboard",
       "description": "User dashboard example with umi, antd and dva.",
-      "url": "https://gitee.com/ngxngx/qysyb-easyui-assets/tree/master/templates/user-dashboard",
+      "url": "https://github.com/encool/qyb-umi-assets/tree/master/templates/user-dashboard",
       "tags": [],
-      "img": "https://gitee.com/ngxngx/qysyb-easyui-assets/blob/master/templates/user-dashboard/snapshot.png?raw=true",
+      "img": "https://github.com/encool/qyb-umi-assets/blob/master/templates/user-dashboard/snapshot.png?raw=true",
       "previewUrl": "",
       "features": [
         "antd",
